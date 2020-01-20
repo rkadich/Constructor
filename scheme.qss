@@ -1,0 +1,16 @@
+QWidget
+{
+	background-color: #2e3133;
+}
+QWidget#my_dialog
+{
+	background-color: #3a3e41;
+}
+QLineEdit
+{
+	background-color: #202223;
+}
+QToolBar
+{
+	color : red;
+}
